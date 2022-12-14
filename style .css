@@ -1,0 +1,138 @@
+.card{
+display:inline-block;
+width: 28%;
+border: 1px solid black;
+background-color: azure;
+border-radius: 15px;
+height: 550px;
+}
+
+img{
+width: 100%;
+border-radius: 15px;
+border-radius: 15px 15px 0px 0px;
+}
+
+body{
+    text-align: center; 
+ background-color:#fbebd7 ; 
+}
+.kar{
+ font-size: 100px; 
+ text-align: center;   
+}
+.card a{
+    background-color: #adefc3; 
+
+}
+.menu_item{
+    box-shadow: 20px 10px 15px 3px rgba(60, 151, 236, 0.2);
+    border-radius: 45px;
+    padding: 10px;
+    display: inline-block;
+ margin: 50px;
+ font: 25px;
+ text-decoration: none;
+ color: black;
+border: 1px solid black;
+width: 200px;
+}
+.menu{
+
+padding: 10px;
+} 
+
+.tarif-prais {
+    margin-top: 100px;
+    color: blue;
+    }
+    
+    caption{
+    font-size: 45px;
+    text-shadow: 2px 2px 2px gray;
+    color: #4B0082;
+    margin-bottom: 20px;
+    text-align: center;
+    
+    
+    }
+    table{
+    margin: 0px auto;
+    width: 80%;
+    text-align: center;
+    border-collapse: collapse;
+    border-top-left-radius: 15px; 
+    
+    border-top-right-radius: 15px;
+    
+    }
+    tr{
+        background-color: #ffffff;
+    }
+    td{
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+    border: 1px  dashed grey;
+    
+    }
+    .basic{
+        background-color: #0083f5;
+        color: #ffffff;
+    }
+    .pro{
+        background-color: #fca103;
+        color: #ffffff; 
+    }
+    .gold{
+    background-color: #fca103;
+    color: #ffffff;
+    }
+    .platinum{
+        background-color: #ff0f83;
+        font-size: 22px;
+    
+        text-shadow: 1px 1px 2px black;
+        color: #ffffff;  
+
+       
+    }
+    th{
+ height: 150px;      
+ font-size: 22px; 
+ text-shadow: 1px 0px 1px 0px white;
+ color: #ffffff;
+ border-top-left-radius: 15px;
+ border-bottom-right-radius: 15px;
+   }
+   .price-text {
+   padding: 16px;
+   margin: 0px auto;
+   border-radius: 4px;
+   box-shadow: 1px 4px 8px gray;
+   display: inline;
+} 
+.price-wrapper{
+    height: 90px;
+    padding: 0px;
+    
+    }
+    
+    .pricebutton{
+    margin: 20px;
+    font-size: 18px;
+    border: 1px solid black;
+    width: 250px;
+    display: inline-block;
+    border-radius: 45px;
+    text-decoration: none;
+    padding: 20px 5px;
+    box-shadow: inset grey;
+    text-shadow: 1px 1px 1px 1px grey;
+    }
+    
+
+
+
